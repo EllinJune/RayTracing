@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/usr/local/src/RayTracing/build",
-  "command": "/usr/bin/g++ -I../core -I../stb -I../cameras -I../materials -I../accelerators -I../textures -I../ext -I../shapes -O3 -DNDEBUG -o CMakeFiles/RayTracing.dir/main.cpp.o -c /usr/local/src/RayTracing/main.cpp",
-  "file": "/usr/local/src/RayTracing/main.cpp"
-}
-]
